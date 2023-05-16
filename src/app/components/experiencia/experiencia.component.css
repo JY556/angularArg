@@ -1,0 +1,28 @@
+.titulo{
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 1.5%;
+  
+ 
+}
+span{
+  
+  background-color: #ffe0b1fb;
+  border-radius: 10px;
+  padding: 1vw;
+  
+  
+}
+
+.background{
+  background-color: #f5f5dc;
+}
+
+img{
+   border-style: solid;
+      
+}
+#imagen-titulo{
+  margin-top: 0.5%;
+}

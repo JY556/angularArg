@@ -1,0 +1,36 @@
+img{
+  width: 45px;
+  margin-right:15px;
+  
+}
+#liLogo{
+  margin-top: 8px;
+  width: 50px;
+}
+#logoAP{
+  width: 180px; 
+    margin-top: 0px;
+  
+}
+.container-fluid{
+  height: 140px;
+  background-color: rgb(125, 162, 182) ;
+  
+}
+
+
+.custom-container{
+  --bs-gutter-x: 0rem;
+}
+
+button{
+  padding: 15px;
+  justify-content: center;
+  margin-right: 15px;
+  
+}
+.icon-login img:hover{
+  transform: scale(1.2);
+}
+
+
